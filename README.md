@@ -10,3 +10,6 @@ Default:
 
 Chocolatier:
 ![AuroraCMS](chocolatier/theme.jpg)
+
+Grassaholic:
+![AuroraCMS](grassaholic/theme.jpg)
