@@ -6,10 +6,13 @@ These Themes are themes that have been built due to boredom, too much free time,
 They are supplied as .zip for easy download.
 
 Default:
-![AuroraCMS](default/theme.jpg)
+![AuroraCMS Default](default/theme.jpg)
 
 Chocolatier:
-![AuroraCMS](chocolatier/theme.jpg)
+![AuroraCMS Chocolatier](chocolatier/theme.jpg)
+
+Earthworx:
+![AuroraCMS Earthworx](earthworx/theme.jpg)
 
 Grassaholic:
-![AuroraCMS](grassaholic/theme.jpg)
+![AuroraCMS Grassaholic](grassaholic/theme.jpg)
